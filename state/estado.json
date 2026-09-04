@@ -1,4 +1,18 @@
 {
-  "indices_alertados": {},
+  "indices_alertados": {
+    "Ibovespa_2026-09-04": true,
+    "PETR4_2026-09-04": true,
+    "ITUB4_2026-09-04": true,
+    "BBDC4_2026-09-04": true,
+    "ABEV3_2026-09-04": true,
+    "WEGE3_2026-09-04": true,
+    "BBAS3_2026-09-04": true,
+    "B3SA3_2026-09-04": true,
+    "RENT3_2026-09-04": true,
+    "ITSA4_2026-09-04": true,
+    "RAIZ4_2026-09-04": true,
+    "ASAI3_2026-09-04": true,
+    "VAMO3_2026-09-04": true
+  },
   "noticias_enviadas": []
 }
